@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Calendar](https://github.com/martinhuynh/markdown-portfolio/blob/main/_includes/Calendar.png)
