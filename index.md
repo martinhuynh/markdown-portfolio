@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% include 01-name.md %}
-
+{% include background.md %}
 <br>
 
 {% include 02-image.md %}
